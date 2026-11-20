@@ -1,0 +1,6 @@
+# ValkyrieEngine 3D Scene
+Project=Valkyrie3DGame
+SceneBanner MadeByValkyrieEngine 0.0 4.0 15.0
+Object3D Player3D Capsule3D 0.0 1.5 0.0 1.0 1.0 1.0
+Object3D Terrain3D Plane3D 0.0 0.0 0.0 50.0 1.0 50.0
+Object3D SpawnCube3D Cube3D 3.0 1.0 4.0 1.0 1.0 1.0

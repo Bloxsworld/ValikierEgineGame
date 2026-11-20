@@ -1,0 +1,5 @@
+# ValkyrieEngine Intro Scene
+SceneName=MadeByValkyrieEngine_Intro
+SceneBanner MadeByValkyrieEngine 0.0 3.5 10.0
+Camera3D MainCamera 0.0 2.0 -5.0 0.0 0.0 0.0
+Light3D DirectionalLight 5.0 10.0 -5.0 1.0 1.0 1.0
